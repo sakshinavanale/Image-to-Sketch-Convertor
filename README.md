@@ -20,9 +20,7 @@ A GUI application to convert any image to grayscale using OpenCV.
 - Supports common image formats (.jpg, .png, .bmp, .tiff)
 - Converts and displays grayscale image using OpenCV window
 
-**Run with:**
-```bash
-python grayscale_converter.py
+
 
 
 ### 2. ✏️ Pencil Sketch Converter
@@ -38,6 +36,10 @@ A GUI application that transforms your image into a pencil sketch using basic im
   - `cv2.divide()` to create the sketch effect
 - Option to save the sketch image in PNG format
 
-**Run with:**
+
+
+### Run both scripts with :
 ```bash
 python image_sketch.py
+
+python grayscale_converter.py
